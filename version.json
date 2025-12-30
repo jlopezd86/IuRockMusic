@@ -1,5 +1,5 @@
 {
   "date": "29/12/25",
-  "downloadUrl": "https://github.com/jlopezd86/IuRockMusic/releases/download/latest/IuRock-Music-win-unpacked.zip",
-  "releaseNotes": "Primera versión con actualización automática"
+  "downloadUrl": "https://github.com/jlopezd86/IuRockMusic/releases/download/update/win-unpacked.zip",
+  "releaseNotes": "Sistema de actualización automática implementado"
 }
